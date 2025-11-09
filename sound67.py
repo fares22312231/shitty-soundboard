@@ -67,5 +67,5 @@ button6.pack()
 root.mainloop() 
 
 
-#all rights reserved for the () on line 48 to saud zaid almuqbeel 
+#all rights reserved for the () on line 46 to pancakecyclops on roblox 
 
